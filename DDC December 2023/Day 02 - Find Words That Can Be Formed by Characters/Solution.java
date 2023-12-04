@@ -29,9 +29,4 @@ public class Solution {
         }
         return true;
     }
-
-    // Ignore this main class
-    public static void main(String[] args) {
-        
-    }
 }

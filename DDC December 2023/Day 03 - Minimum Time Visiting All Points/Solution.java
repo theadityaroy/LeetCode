@@ -17,9 +17,4 @@ public class Solution {
 
         return Math.max(xDiff, yDiff);
     }
-
-    // Ignore this main class
-    public static void main(String[] args) {
-
-    }
 }

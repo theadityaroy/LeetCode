@@ -14,9 +14,4 @@ public class Solution {
 
         return sb1.toString().equals(sb2.toString());
     }
-
-    // Ignore this main class
-    public static void main(String[] args) {
-        
-    }
 }
