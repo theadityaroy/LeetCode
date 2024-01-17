@@ -1,3 +1,5 @@
+// Problem Link : https://leetcode.com/problems/unique-number-of-occurrences/description/
+
 public class Solution {
     public boolean uniqueOccurrences(int[] arr) {
         HashMap<Integer, Integer> map = new HashMap<>();
